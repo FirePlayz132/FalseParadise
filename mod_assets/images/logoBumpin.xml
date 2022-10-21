@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="logoBumpin.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="logo bumpin instance 10000" x="0" y="0" width="749" height="315"/>
+	<SubTexture name="logo bumpin instance 10001" x="749" y="0" width="749" height="315"/>
+	<SubTexture name="logo bumpin instance 10002" x="749" y="0" width="749" height="315"/>
+	<SubTexture name="logo bumpin instance 10003" x="0" y="315" width="749" height="315"/>
+	<SubTexture name="logo bumpin instance 10004" x="0" y="315" width="749" height="315"/>
+	<SubTexture name="logo bumpin instance 10005" x="749" y="315" width="749" height="315"/>
+	<SubTexture name="logo bumpin instance 10006" x="749" y="315" width="749" height="315"/>
+	<SubTexture name="logo bumpin instance 10007" x="749" y="315" width="749" height="315"/>
+	<SubTexture name="logo bumpin instance 10008" x="749" y="315" width="749" height="315"/>
+	<SubTexture name="logo bumpin instance 10009" x="749" y="315" width="749" height="315"/>
+	<SubTexture name="logo bumpin instance 10010" x="749" y="315" width="749" height="315"/>
+	<SubTexture name="logo bumpin instance 10011" x="749" y="315" width="749" height="315"/>
+	<SubTexture name="logo bumpin instance 10012" x="749" y="315" width="749" height="315"/>
+	<SubTexture name="logo bumpin instance 10013" x="749" y="315" width="749" height="315"/>
+	<SubTexture name="logo bumpin instance 10014" x="749" y="315" width="749" height="315"/>
+</TextureAtlas>

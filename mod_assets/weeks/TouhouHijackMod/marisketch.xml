@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="marisketch.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Marisketch0000" x="0" y="632" width="393" height="631"/>
+	<SubTexture name="Marisketch0001" x="0" y="632" width="393" height="631"/>
+	<SubTexture name="Marisketch0002" x="393" y="632" width="393" height="631"/>
+	<SubTexture name="Marisketch0003" x="393" y="632" width="393" height="631"/>
+	<SubTexture name="Marisketch0004" x="786" y="632" width="393" height="631"/>
+	<SubTexture name="Marisketch0005" x="786" y="632" width="393" height="631"/>
+	<SubTexture name="Marisketch0006" x="1179" y="632" width="393" height="631"/>
+	<SubTexture name="Marisketch0007" x="1179" y="632" width="393" height="631"/>
+	<SubTexture name="Marisketch0008" x="1572" y="632" width="393" height="631"/>
+	<SubTexture name="Marisketch0009" x="1572" y="632" width="393" height="631"/>
+	<SubTexture name="Marisketch0010" x="1965" y="632" width="393" height="631"/>
+	<SubTexture name="Marisketch0011" x="1965" y="632" width="393" height="631"/>
+	<SubTexture name="Marisketch0012" x="1965" y="632" width="393" height="631"/>
+	<SubTexture name="Marisketch0013" x="1965" y="632" width="393" height="631"/>
+	<SubTexture name="Marisketch0014" x="1965" y="632" width="393" height="631"/>
+	<SubTexture name="Marisketch0015" x="1965" y="632" width="393" height="631"/>
+	<SubTexture name="Marisketch0016" x="1965" y="632" width="393" height="631"/>
+	<SubTexture name="Marisketch0017" x="1965" y="632" width="393" height="631"/>
+	<SubTexture name="Marisketch0018" x="1965" y="632" width="393" height="631"/>
+	<SubTexture name="Marisketch0019" x="1965" y="632" width="393" height="631"/>
+	<SubTexture name="Marisketch0020" x="1965" y="632" width="393" height="631"/>
+	<SubTexture name="Marishoot0000" x="0" y="0" width="466" height="632"/>
+	<SubTexture name="Marishoot0001" x="0" y="0" width="466" height="632"/>
+	<SubTexture name="Marishoot0002" x="466" y="0" width="466" height="632"/>
+	<SubTexture name="Marishoot0003" x="466" y="0" width="466" height="632"/>
+	<SubTexture name="Marishoot0004" x="932" y="0" width="466" height="632"/>
+	<SubTexture name="Marishoot0005" x="932" y="0" width="466" height="632"/>
+	<SubTexture name="Marishoot0006" x="1398" y="0" width="466" height="632"/>
+	<SubTexture name="Marishoot0007" x="1398" y="0" width="466" height="632"/>
+	<SubTexture name="Marishoot0008" x="1398" y="0" width="466" height="632"/>
+	<SubTexture name="Marishoot0009" x="1398" y="0" width="466" height="632"/>
+	<SubTexture name="Marishoot0010" x="1398" y="0" width="466" height="632"/>
+	<SubTexture name="Marishoot0011" x="1398" y="0" width="466" height="632"/>
+	<SubTexture name="Marishoot0012" x="1398" y="0" width="466" height="632"/>
+	<SubTexture name="Marishoot0013" x="1398" y="0" width="466" height="632"/>
+	<SubTexture name="Marishoot0014" x="1864" y="0" width="466" height="632"/>
+	<SubTexture name="Marishoot0015" x="1864" y="0" width="466" height="632"/>
+	<SubTexture name="Marishoot0016" x="2330" y="0" width="466" height="632"/>
+	<SubTexture name="Marishoot0017" x="2330" y="0" width="466" height="632"/>
+	<SubTexture name="Marishoot0018" x="2796" y="0" width="466" height="632"/>
+	<SubTexture name="Marishoot0019" x="2796" y="0" width="466" height="632"/>
+	<SubTexture name="Marishoot0020" x="3262" y="0" width="466" height="632"/>
+	<SubTexture name="Marishoot0021" x="3262" y="0" width="466" height="632"/>
+	<SubTexture name="Marishoot0022" x="3262" y="0" width="466" height="632"/>
+	<SubTexture name="Marishoot0023" x="3262" y="0" width="466" height="632"/>
+	<SubTexture name="Marishoot0024" x="3262" y="0" width="466" height="632"/>
+	<SubTexture name="Marishoot0025" x="3262" y="0" width="466" height="632"/>
+	<SubTexture name="Marishoot0026" x="3262" y="0" width="466" height="632"/>
+	<SubTexture name="Marishoot0027" x="3262" y="0" width="466" height="632"/>
+</TextureAtlas>

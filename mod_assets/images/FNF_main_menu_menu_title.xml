@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="FNF_main_menu_menu_title.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Modded0000" x="0" y="0" width="678" height="192"/>
+	<SubTexture name="Modded0001" x="678" y="0" width="678" height="192"/>
+	<SubTexture name="Modded0002" x="1356" y="0" width="678" height="192"/>
+	<SubTexture name="Vanilla0000" x="0" y="192" width="610" height="186"/>
+	<SubTexture name="Vanilla0001" x="610" y="192" width="610" height="186"/>
+	<SubTexture name="Vanilla0002" x="1220" y="192" width="610" height="186"/>
+</TextureAtlas>

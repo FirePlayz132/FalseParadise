@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="GF_assets_sign_fnfsrt.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="GF sign0000" x="0" y="0" width="703" height="652"/>
+	<SubTexture name="GF sign0001" x="0" y="0" width="703" height="652"/>
+	<SubTexture name="GF sign0002" x="0" y="652" width="703" height="652"/>
+	<SubTexture name="GF sign0003" x="0" y="1304" width="703" height="652"/>
+	<SubTexture name="GF sign0004" x="0" y="1956" width="703" height="652"/>
+	<SubTexture name="GF sign0005" x="0" y="2608" width="703" height="652"/>
+	<SubTexture name="GF sign0006" x="0" y="2608" width="703" height="652"/>
+	<SubTexture name="GF sign0007" x="0" y="3260" width="703" height="652"/>
+	<SubTexture name="GF sign0008" x="0" y="3260" width="703" height="652"/>
+	<SubTexture name="GF sign0009" x="703" y="0" width="703" height="652"/>
+	<SubTexture name="GF sign0010" x="703" y="652" width="703" height="652"/>
+	<SubTexture name="GF sign0011" x="703" y="1304" width="703" height="652"/>
+	<SubTexture name="GF sign0012" x="703" y="1304" width="703" height="652"/>
+	<SubTexture name="GF sign0013" x="703" y="1956" width="703" height="652"/>
+	<SubTexture name="GF sign0014" x="703" y="2608" width="703" height="652"/>
+</TextureAtlas>

@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="GF_sign_language.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="GF ASL0000" x="0" y="0" width="703" height="649"/>
+	<SubTexture name="GF ASL0001" x="0" y="0" width="703" height="649"/>
+	<SubTexture name="GF ASL0002" x="703" y="0" width="703" height="649"/>
+	<SubTexture name="GF ASL0003" x="1406" y="0" width="703" height="649"/>
+	<SubTexture name="GF ASL0004" x="2109" y="0" width="703" height="649"/>
+	<SubTexture name="GF ASL0005" x="2109" y="0" width="703" height="649"/>
+	<SubTexture name="GF ASL0006" x="2812" y="0" width="703" height="649"/>
+	<SubTexture name="GF ASL0007" x="0" y="649" width="703" height="649"/>
+	<SubTexture name="GF ASL0008" x="0" y="649" width="703" height="649"/>
+	<SubTexture name="GF ASL0009" x="703" y="649" width="703" height="649"/>
+	<SubTexture name="GF ASL0010" x="703" y="649" width="703" height="649"/>
+	<SubTexture name="GF ASL0011" x="1406" y="649" width="703" height="649"/>
+	<SubTexture name="GF ASL0012" x="1406" y="649" width="703" height="649"/>
+	<SubTexture name="GF ASL0013" x="2109" y="649" width="703" height="649"/>
+	<SubTexture name="GF ASL0014" x="2109" y="649" width="703" height="649"/>
+	<SubTexture name="GF ASL0015" x="2812" y="649" width="703" height="649"/>
+	<SubTexture name="GF ASL0016" x="0" y="1298" width="703" height="649"/>
+	<SubTexture name="GF ASL0017" x="0" y="1298" width="703" height="649"/>
+	<SubTexture name="GF ASL0018" x="0" y="1298" width="703" height="649"/>
+	<SubTexture name="GF ASL0019" x="703" y="1298" width="703" height="649"/>
+	<SubTexture name="GF ASL0020" x="703" y="1298" width="703" height="649"/>
+	<SubTexture name="GF ASL0021" x="1406" y="1298" width="703" height="649"/>
+	<SubTexture name="GF ASL0022" x="1406" y="1298" width="703" height="649"/>
+	<SubTexture name="GF ASL0023" x="0" y="0" width="703" height="649"/>
+</TextureAtlas>

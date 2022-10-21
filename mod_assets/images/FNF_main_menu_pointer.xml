@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="FNF_main_menu_pointer.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Menu Pointer0000" x="0" y="0" width="119" height="118"/>
+	<SubTexture name="Menu Pointer0001" x="0" y="0" width="119" height="118"/>
+	<SubTexture name="Menu Pointer0002" x="119" y="0" width="119" height="118"/>
+	<SubTexture name="Menu Pointer0003" x="119" y="0" width="119" height="118"/>
+	<SubTexture name="Menu Pointer0004" x="0" y="118" width="119" height="118"/>
+	<SubTexture name="Menu Pointer0005" x="0" y="118" width="119" height="118"/>
+</TextureAtlas>
